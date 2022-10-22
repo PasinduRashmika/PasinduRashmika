@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PasinduRashmika
 - 👀 I’m interested in Web development & Programming.
-- 🌱 I’m currently learning React js & Node js
+- 🌱 I’m currently learning React js,Node js & Flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
